@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="ewhdtls0@naver.com" target="_blank">
-  <img src="https://img.shields.io/badge/ewhdtls0@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=005FF9"/>
+<a href="javascript:void(0)" target="_blank">
+  <img src="https://img.shields.io/badge/ewhdtls0@naver.com-005FF9?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 <!--
 **ewhdtls0/ewhdtls0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

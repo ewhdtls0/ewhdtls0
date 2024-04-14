@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/9333EA?style= for-the-badge&logo=teratail&logoColor=00B0EA"/></a>
 <!--
 **ewhdtls0/ewhdtls0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

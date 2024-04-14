@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Oracle-80000?style=flat-square&logo=oracle&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=FFFFFF"/>

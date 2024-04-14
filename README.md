@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ### ABOUT ME:
 <div style="display: flex">
   <img src="https://img.shields.io/badge/PlayingGames-000000?style=for-the-badge&logo=counterstrike&logoColor=FFFFFF"/>

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/ewhdtls0@naver.com-005FF9?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewhdtls0&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewhdtls0&show_icons=true&theme=solarized-light)
 <!--
 **ewhdtls0/ewhdtls0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### 😄ABOUT ME:
+### 😄ABOUT ME
 <div style="display: flex">
   <img src="https://img.shields.io/badge/Playing Games-000000?style=flat-square&logo=counterstrike&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Listening Music-FF0000?style=flat-square&logo=applemusic&logoColor=FFFFFF"/>

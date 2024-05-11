@@ -39,7 +39,7 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewhdtls0&show_icons=true&theme=solarized-light&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewhdtls0&show_icons=true&theme=tokyonight&count_private=true)
 <!--
 **ewhdtls0/ewhdtls0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

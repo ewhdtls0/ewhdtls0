@@ -1,4 +1,4 @@
-### 😄ABOUT ME:
+### 😄ABOUT ME
 <div style="display: flex">
   <img src="https://img.shields.io/badge/Playing Games-000000?style=flat-square&logo=counterstrike&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Listening Music-FF0000?style=flat-square&logo=applemusic&logoColor=FFFFFF"/>
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/ewhdtls0@naver.com-005FF9?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </div>
 
-### ⚡SKILLS:
+### ⚡SKILLS
 <div style="display: flex">
   <h4>BACKEND</h4>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
